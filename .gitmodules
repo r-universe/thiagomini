@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "WeibullFit"]
+	path = WeibullFit
+	url = https://github.com/thiagomini/weibullfit
+	shallow = true
+	registered = true
